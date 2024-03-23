@@ -1,4 +1,4 @@
-<bold>HANGMAN GAME USING PYTHON</bold>
+<bold>HANGMAN GAME USING PYTHON</bold> <br>
 ->Developed an interactive Hangman game using Python, providing users with an engaging and entertaining gaming experience.<br>
 ->Implemented intuitive user interfaces and engaging graphics to enhance user immersion and enjoyment throughout the game.<br>
 ->Successfully incorporated essential game mechanics such as word selection, player input processing, and game progression logic to ensure a seamless gaming experience.<br>
